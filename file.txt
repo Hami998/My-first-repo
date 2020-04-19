@@ -1,1 +1,2 @@
 Dobrodosli u moje prvo skladiste
+Jos jedna linija za git
