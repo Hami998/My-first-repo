@@ -1,4 +1,5 @@
 Dobrodosli u moje prvo skladiste
 Jos jedna linija za git
 Nova nova linaja u fajlu
-Bas je prelep dan
+Bas je kisovit dan
+
